@@ -7,6 +7,7 @@ Solving DSA problems and later adding its resources as well
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ysingh77/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ysingh77/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ysingh77/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ysingh77/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ysingh77/DSA/tree/master/0035-search-insert-position) |
@@ -16,6 +17,7 @@ Solving DSA problems and later adding its resources as well
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ysingh77/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ysingh77/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ysingh77/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ysingh77/DSA/tree/master/0088-merge-sorted-array) |
@@ -45,4 +47,8 @@ Solving DSA problems and later adding its resources as well
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ysingh77/DSA/tree/master/0066-plus-one) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ysingh77/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
