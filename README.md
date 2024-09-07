@@ -58,4 +58,12 @@ Solving DSA problems and later adding its resources as well
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ysingh77/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ysingh77/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ysingh77/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
