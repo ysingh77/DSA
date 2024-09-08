@@ -50,6 +50,7 @@ Solving DSA problems and later adding its resources as well
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ysingh77/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ysingh77/DSA/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -62,8 +63,17 @@ Solving DSA problems and later adding its resources as well
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ysingh77/DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/ysingh77/DSA/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ysingh77/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ysingh77/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ysingh77/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
