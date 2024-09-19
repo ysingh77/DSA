@@ -21,6 +21,7 @@ Solving DSA problems and later adding its resources as well
 | [0118-pascals-triangle](https://github.com/ysingh77/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ysingh77/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ysingh77/DSA/tree/master/0169-majority-element) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/ysingh77/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
