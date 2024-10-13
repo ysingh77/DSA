@@ -95,4 +95,8 @@ Solving DSA problems and later adding its resources as well
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ysingh77/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/ysingh77/DSA/tree/master/1791-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ysingh77/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
